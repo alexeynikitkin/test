@@ -22,3 +22,11 @@
 2021-11-24 12:09:45 Позиція строкиul. Twarda 18 знайдена - 0 11
 2021-11-24 12:09:45 Закинуто файл itsmilla_all_inventory.csv в масив Array
 2021-11-24 12:09:45 Замінено строку в масиві, вcтавлено масив в файл itsmilla_all_inventory.csv
+2021-11-24 13:20:47 Закинуто файл Itsmiladress_inventory.csv в масив Array
+2021-11-24 13:20:47 Позиція строкиHandle знайдена - 0 0
+2021-11-24 13:20:47 Закинуто файл itsmilla_all_inventory.csv в масив Array
+2021-11-24 13:20:47 Замінено строку в масиві, вcтавлено масив в файл itsmilla_all_inventory.csv
+2021-11-24 13:21:47 Закинуто файл Itsmiladress_inventory.csv в масив Array
+2021-11-24 13:21:47 Позиція строкиHandle знайдена - 0 0
+2021-11-24 13:21:47 Закинуто файл itsmilla_all_inventory.csv в масив Array
+2021-11-24 13:21:47 Замінено строку в масиві, вcтавлено масив в файл itsmilla_all_inventory.csv
