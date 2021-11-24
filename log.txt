@@ -1,0 +1,24 @@
+2021-11-24 12:08:40 Закинуто файл Itsmiladress_inventory.csv в масив Array
+2021-11-24 12:08:40 Позиція строкиOption3 Value знайдена - 0 7
+2021-11-24 12:08:40 Закинуто файл itsmilla_all_inventory.csv в масив Array
+2021-11-24 12:08:40 Замінено строку в масиві, вcтавлено масив в файл itsmilla_all_inventory.csv
+2021-11-24 12:08:48 Закинуто файл Itsmiladress_inventory.csv в масив Array
+2021-11-24 12:08:48 Позиція строкиul. Twarda 18 знайдена - 0 11
+2021-11-24 12:08:48 Закинуто файл itsmilla_all_inventory.csv в масив Array
+2021-11-24 12:08:48 Замінено строку в масиві, вcтавлено масив в файл itsmilla_all_inventory.csv
+2021-11-24 12:08:58 Закинуто файл Itsmiladress_inventory.csv в масив Array
+2021-11-24 12:08:58 Позиція строкиul. Twarda 18 знайдена - 0 11
+2021-11-24 12:08:58 Закинуто файл itsmilla_all_inventory.csv в масив Array
+2021-11-24 12:08:58 Замінено строку в масиві, вcтавлено масив в файл itsmilla_all_inventory.csv
+2021-11-24 12:09:07 Закинуто файл Itsmiladress_inventory.csv в масив Array
+2021-11-24 12:09:07 Позиція строкиul. Twarda 18 знайдена - 0 11
+2021-11-24 12:09:07 Закинуто файл itsmilla_all_inventory.csv в масив Array
+2021-11-24 12:09:07 Замінено строку в масиві, вcтавлено масив в файл itsmilla_all_inventory.csv
+2021-11-24 12:09:11 Закинуто файл Itsmiladress_inventory.csv в масив Array
+2021-11-24 12:09:11 Позиція строкиul. Twarda 18 знайдена - 0 11
+2021-11-24 12:09:11 Закинуто файл itsmilla_all_inventory.csv в масив Array
+2021-11-24 12:09:11 Замінено строку в масиві, вcтавлено масив в файл itsmilla_all_inventory.csv
+2021-11-24 12:09:45 Закинуто файл Itsmiladress_inventory.csv в масив Array
+2021-11-24 12:09:45 Позиція строкиul. Twarda 18 знайдена - 0 11
+2021-11-24 12:09:45 Закинуто файл itsmilla_all_inventory.csv в масив Array
+2021-11-24 12:09:45 Замінено строку в масиві, вcтавлено масив в файл itsmilla_all_inventory.csv
